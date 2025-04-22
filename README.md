@@ -8,9 +8,9 @@ git clone https://github.com/Souiy/RiseAutoBot-SOUIY.git
 ---
 
 ## 2. Masuk ke folder
-RiseAutoBot-SOUIY.git
+cd RiseAutoBot-SOUIY
 
-<button onclick="navigator.clipboard.writeText('RiseAutoBot-SOUIY.git')">📋 Copy</button>
+<button onclick="navigator.clipboard.writeText('cd RiseAutoBot-SOUIY')">📋 Copy</button>
 
 ---
 
